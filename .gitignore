@@ -1,0 +1,4 @@
+﻿# ignore large data
+data/
+*.csv
+.ipynb_checkpoints/
